@@ -1,3 +1,41 @@
+# Bitcoin Block and Merkle Tree Assignment — My Submission
+
+## Student Work
+
+This repository contains my completed investigation of Bitcoin Block #100,000 and a Python implementation of the Merkle tree calculation.
+
+### Completed Tasks
+
+- [x] Task 1 — Bitcoin Block Inspection
+- [x] Task 2 — Merkle Tree Construction
+- [x] Python Merkle Root Calculation
+- [x] Merkle Root Verification
+
+### Block Investigated
+
+**Bitcoin Block #100,000**
+
+The block contains **4 transactions**. I used the real transaction hashes from this block to construct the Merkle tree.
+
+### Results
+
+The Python implementation calculated the following Merkle root:
+
+`f3e94742aca4b5ef85488dc37c06c3282295ffec960994b2c0d5ac2a25a95766`
+
+This matches the Merkle root recorded in Block #100,000.
+
+### Project Files
+
+- [`block-inspection.md`](block-inspection.md) — Task 1 block inspection
+- [`merkle-tree.md`](merkle-tree.md) — Task 2 Merkle tree construction and explanation
+- [`code/merkle_tree.py`](code/merkle_tree.py) — Python implementation
+
+---
+
+   
+   
+   ![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XUOMUT_t)
 # assignment-6
 
 # Bitcoin Block and Merkle Tree Assignment
